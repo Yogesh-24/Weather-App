@@ -14,17 +14,19 @@ body{
     background: #06283D;
 }
 
-.container{
+.container {
     position: relative;
-    width: 400px;
+    width: 90%; 
+    max-width: 400px; 
     height: 105px;
     background: #fff;
-    padding: 28px 32px;
+    padding: 20px 24px; 
     overflow: hidden;
     border-radius: 18px;
     font-family: 'Roboto', sans-serif;
     transition: 0.6s ease-out;
 }
+
 
 .search-box{
     width: 100%;
