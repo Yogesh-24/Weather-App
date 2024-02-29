@@ -8,4 +8,4 @@ Here's the project's screenshot :
 # Live Demo
 Here's the project's Demo :
 
-![Click Here](https://the-weatherforecast-app.netlify.app/)
+[Click Here](https://the-weatherforecast-app.netlify.app/)
